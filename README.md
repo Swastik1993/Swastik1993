@@ -11,7 +11,7 @@ I am from India currently living in Kolkata, West Bengal. Presently, I am workin
 
 ### Current statistics as per my Github profile:
 <a href="https://github.com/Swastik1993/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik1993&layout=compact&show_icons=true&theme=vision-friendly-dark" width="330" height="250"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik1993&exclude_repo=node-web,nodejs-ex,Swastik1993.github.io&layout=compact&show_icons=true&theme=vision-friendly-dark" width="330" height="250"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Swastik1993&show_icons=true&theme=vision-friendly-dark" width="400" height="200"/>
