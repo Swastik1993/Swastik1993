@@ -1,6 +1,6 @@
 # Hello, I’m Swastik! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am from India currently living in Kolkata, West Bengal. Presently, I am working as a Data Scientist at BRIDGEi2i Analytics Solutions, Bangalore. You can find me on <a href="https://www.linkedin.com/in/swastikbiswas/"><img alt="linkedin" src="https://image.flaticon.com/icons/png/512/124/124011.png" width="22" height="22"></a>, or on <a href="https://twitter.com/swastik_biswas/"><img alt="twitter" src="https://www.iconpacks.net/icons/1/free-icon-twitter-135.png" width="22" height="22"></a>
+I am from India currently living in Kolkata, West Bengal. Presently, I am working as a Data Scientist at BRIDGEi2i Analytics Solutions, Bangalore. You can find me on <a href="https://www.linkedin.com/in/swastikbiswas/"><img alt="linkedin" src="https://image.flaticon.com/icons/png/512/124/124011.png" width="22" height="22"></a>, or on <a href="https://twitter.com/swastik_biswas/"><img alt="twitter" src="https://www.iconpacks.net/icons/1/free-icon-twitter-135.png" width="22" height="22"></a>. You can also have a look at my website <a href="https://www.swastikbiswas.me/"><img alt="webpage" src="https://raw.githubusercontent.com/Swastik1993/Swastik1993/main/chrome.gif" width="22" height="22"></a>
 
 
 - 👀 I’m interested in Machine Learning, Computer Vision and Data Engineering.
